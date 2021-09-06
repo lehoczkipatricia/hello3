@@ -4,7 +4,7 @@
 * Copyright: 2021, Lehoczki Patrícia
 * Group: Szoft II N
 * Date: 2021-09-06
-* Github: https://github.com/lehoczkipatricia99/
+* Github: https://github.com/lehoczkipatricia
 * Licenc: GNU GPL
 */
 
